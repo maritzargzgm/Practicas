@@ -1,0 +1,23 @@
+ /* p {
+        color: blue;
+        font-weight: 24px;
+        font-size: 20px;
+    } */
+/* body {
+        background: black;
+    } */
+p,h1,h4 {
+            color: red;
+        }
+div p {
+            color: orange;
+        }
+/* h1 {
+        color: green;
+    } */
+#first-para {
+            color: blue;
+        }
+.first-para {
+            color: purple;
+        }
